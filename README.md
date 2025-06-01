@@ -1,4 +1,4 @@
-# 🌸 Aesthetic Calculator
+# 🌸 Calculator 🌸
 
 A cute, keyboard-friendly calculator built with 💻 HTML, 🎨 CSS, and 🧠 JavaScript.  
 It includes:
