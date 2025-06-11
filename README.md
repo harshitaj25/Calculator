@@ -7,7 +7,7 @@ It includes:
 - Scrollable calculation history
 - Keyboard support (e.g. Enter, Backspace, numbers, operators)
 
-🔗 **Live Demo**: [your GitHub Pages link]
+🔗 **Live Demo**: [(https://harshitaj25.github.io/Calculator/)]
 
 ---
 
